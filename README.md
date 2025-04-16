@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Safeeq-Fazil/leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Safeeq-Fazil/leetcode/tree/master/0155-min-stack) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Safeeq-Fazil/leetcode/tree/master/0367-valid-perfect-square) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Safeeq-Fazil/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
