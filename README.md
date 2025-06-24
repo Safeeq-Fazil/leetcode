@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Safeeq-Fazil/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Safeeq-Fazil/leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Safeeq-Fazil/leetcode/tree/master/0242-valid-anagram) |
+| [3684-substring-matching-pattern](https://github.com/Safeeq-Fazil/leetcode/tree/master/3684-substring-matching-pattern) |
 ## Stack
 |  |
 | ------- |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Safeeq-Fazil/leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Safeeq-Fazil/leetcode/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/Safeeq-Fazil/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+## String Matching
+|  |
+| ------- |
+| [3684-substring-matching-pattern](https://github.com/Safeeq-Fazil/leetcode/tree/master/3684-substring-matching-pattern) |
 <!---LeetCode Topics End-->
