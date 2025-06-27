@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Safeeq-Fazil/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Safeeq-Fazil/leetcode/tree/master/0118-pascals-triangle) |
 | [0875-longest-mountain-in-array](https://github.com/Safeeq-Fazil/leetcode/tree/master/0875-longest-mountain-in-array) |
 ## Enumeration
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Safeeq-Fazil/leetcode/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/Safeeq-Fazil/leetcode/tree/master/0367-valid-perfect-square) |
 ## Design
 |  |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3684-substring-matching-pattern](https://github.com/Safeeq-Fazil/leetcode/tree/master/3684-substring-matching-pattern) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Safeeq-Fazil/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
