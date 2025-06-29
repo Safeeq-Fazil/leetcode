@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Safeeq-Fazil/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Safeeq-Fazil/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Safeeq-Fazil/leetcode/tree/master/0118-pascals-triangle) |
+| [0169-majority-element](https://github.com/Safeeq-Fazil/leetcode/tree/master/0169-majority-element) |
 | [0875-longest-mountain-in-array](https://github.com/Safeeq-Fazil/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Safeeq-Fazil/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Safeeq-Fazil/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -63,11 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Safeeq-Fazil/leetcode/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/Safeeq-Fazil/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Safeeq-Fazil/leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Safeeq-Fazil/leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Safeeq-Fazil/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Safeeq-Fazil/leetcode/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/Safeeq-Fazil/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## String Matching
@@ -78,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Safeeq-Fazil/leetcode/tree/master/0070-climbing-stairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Safeeq-Fazil/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Safeeq-Fazil/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
