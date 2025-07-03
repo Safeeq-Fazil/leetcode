@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Safeeq-Fazil/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Safeeq-Fazil/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1646-kth-missing-positive-number](https://github.com/Safeeq-Fazil/leetcode/tree/master/1646-kth-missing-positive-number) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Safeeq-Fazil/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Safeeq-Fazil/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Safeeq-Fazil/leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Safeeq-Fazil/leetcode/tree/master/0242-valid-anagram) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Safeeq-Fazil/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3684-substring-matching-pattern](https://github.com/Safeeq-Fazil/leetcode/tree/master/3684-substring-matching-pattern) |
 ## Stack
 |  |
