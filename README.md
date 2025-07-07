@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Safeeq-Fazil/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Safeeq-Fazil/leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Safeeq-Fazil/leetcode/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Safeeq-Fazil/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0875-longest-mountain-in-array](https://github.com/Safeeq-Fazil/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Safeeq-Fazil/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Safeeq-Fazil/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Safeeq-Fazil/leetcode/tree/master/0075-sort-colors) |
+| [0349-intersection-of-two-arrays](https://github.com/Safeeq-Fazil/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0875-longest-mountain-in-array](https://github.com/Safeeq-Fazil/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Safeeq-Fazil/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Dynamic Programming
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Safeeq-Fazil/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Safeeq-Fazil/leetcode/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/Safeeq-Fazil/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Safeeq-Fazil/leetcode/tree/master/0367-valid-perfect-square) |
 | [1646-kth-missing-positive-number](https://github.com/Safeeq-Fazil/leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Math
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Safeeq-Fazil/leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Safeeq-Fazil/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Safeeq-Fazil/leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Safeeq-Fazil/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Safeeq-Fazil/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
@@ -82,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Safeeq-Fazil/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Safeeq-Fazil/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Safeeq-Fazil/leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Safeeq-Fazil/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/Safeeq-Fazil/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Safeeq-Fazil/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## String Matching
