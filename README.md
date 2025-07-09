@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Safeeq-Fazil/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Safeeq-Fazil/leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Safeeq-Fazil/leetcode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Safeeq-Fazil/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Safeeq-Fazil/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3684-substring-matching-pattern](https://github.com/Safeeq-Fazil/leetcode/tree/master/3684-substring-matching-pattern) |
 ## Stack
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Safeeq-Fazil/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Safeeq-Fazil/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Safeeq-Fazil/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Safeeq-Fazil/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Safeeq-Fazil/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Safeeq-Fazil/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Safeeq-Fazil/leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Safeeq-Fazil/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Safeeq-Fazil/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Safeeq-Fazil/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
