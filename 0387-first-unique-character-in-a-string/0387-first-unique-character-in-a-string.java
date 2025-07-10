@@ -1,14 +1,9 @@
 class Solution {
     public int firstUniqChar(String s) {
-        Map<Character,Integer> mymap=new HashMap<>();
-        for(char c: s.toCharArray())
-        {
-            mymap.put(c,mymap.getOrDefault(c,0)+1);
-        }
-
         for(int i=0;i<s.length();i++)
         {
-            if(mymap.get(s.charAt(i))==1)
+            char ch= s.charAt(i);
+            if(s.indexOf(ch)==s.lastIndexOf(ch))
             {
                 return i;
             }
