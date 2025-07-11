@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Safeeq-Fazil/leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Safeeq-Fazil/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Safeeq-Fazil/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0782-jewels-and-stones](https://github.com/Safeeq-Fazil/leetcode/tree/master/0782-jewels-and-stones) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Safeeq-Fazil/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3684-substring-matching-pattern](https://github.com/Safeeq-Fazil/leetcode/tree/master/3684-substring-matching-pattern) |
 ## Stack
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Safeeq-Fazil/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Safeeq-Fazil/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Safeeq-Fazil/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0782-jewels-and-stones](https://github.com/Safeeq-Fazil/leetcode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Safeeq-Fazil/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
