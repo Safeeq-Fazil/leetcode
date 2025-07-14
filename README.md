@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Safeeq-Fazil/leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Safeeq-Fazil/leetcode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/Safeeq-Fazil/leetcode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Safeeq-Fazil/leetcode/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/Safeeq-Fazil/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Safeeq-Fazil/leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Safeeq-Fazil/leetcode/tree/master/0169-majority-element) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Safeeq-Fazil/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Safeeq-Fazil/leetcode/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/Safeeq-Fazil/leetcode/tree/master/0068-text-justification) |
 | [0242-valid-anagram](https://github.com/Safeeq-Fazil/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Safeeq-Fazil/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Safeeq-Fazil/leetcode/tree/master/0782-jewels-and-stones) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Safeeq-Fazil/leetcode/tree/master/0068-text-justification) |
 | [2058-concatenation-of-array](https://github.com/Safeeq-Fazil/leetcode/tree/master/2058-concatenation-of-array) |
 ## Counting Sort
 |  |
