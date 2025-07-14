@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Safeeq-Fazil/leetcode/tree/master/0068-text-justification) |
 | [0242-valid-anagram](https://github.com/Safeeq-Fazil/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Safeeq-Fazil/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/Safeeq-Fazil/leetcode/tree/master/0394-decode-string) |
 | [0782-jewels-and-stones](https://github.com/Safeeq-Fazil/leetcode/tree/master/0782-jewels-and-stones) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Safeeq-Fazil/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3684-substring-matching-pattern](https://github.com/Safeeq-Fazil/leetcode/tree/master/3684-substring-matching-pattern) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Safeeq-Fazil/leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Safeeq-Fazil/leetcode/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/Safeeq-Fazil/leetcode/tree/master/0394-decode-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Safeeq-Fazil/leetcode/tree/master/0239-sliding-window-maximum) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Safeeq-Fazil/leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
