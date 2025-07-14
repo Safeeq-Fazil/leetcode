@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Safeeq-Fazil/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0875-longest-mountain-in-array](https://github.com/Safeeq-Fazil/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Safeeq-Fazil/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Safeeq-Fazil/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Safeeq-Fazil/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Safeeq-Fazil/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/Safeeq-Fazil/leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Safeeq-Fazil/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0875-longest-mountain-in-array](https://github.com/Safeeq-Fazil/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Safeeq-Fazil/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Safeeq-Fazil/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Safeeq-Fazil/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Safeeq-Fazil/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Safeeq-Fazil/leetcode/tree/master/0367-valid-perfect-square) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Safeeq-Fazil/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1646-kth-missing-positive-number](https://github.com/Safeeq-Fazil/leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Math
 |  |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Safeeq-Fazil/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Safeeq-Fazil/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/Safeeq-Fazil/leetcode/tree/master/0782-jewels-and-stones) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Safeeq-Fazil/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Safeeq-Fazil/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
@@ -108,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Safeeq-Fazil/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Safeeq-Fazil/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/Safeeq-Fazil/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Safeeq-Fazil/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Safeeq-Fazil/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## String Matching
 |  |
