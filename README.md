@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Safeeq-Fazil/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Safeeq-Fazil/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Safeeq-Fazil/leetcode/tree/master/0367-valid-perfect-square) |
+| [0897-prime-palindrome](https://github.com/Safeeq-Fazil/leetcode/tree/master/0897-prime-palindrome) |
 ## Design
 |  |
 | ------- |
@@ -199,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Safeeq-Fazil/leetcode/tree/master/0969-number-of-recent-calls) |
+## Number Theory
+|  |
+| ------- |
+| [0897-prime-palindrome](https://github.com/Safeeq-Fazil/leetcode/tree/master/0897-prime-palindrome) |
 <!---LeetCode Topics End-->
