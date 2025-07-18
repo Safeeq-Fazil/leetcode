@@ -192,12 +192,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Safeeq-Fazil/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/Safeeq-Fazil/leetcode/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/Safeeq-Fazil/leetcode/tree/master/0394-decode-string) |
 ## Linked List
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Safeeq-Fazil/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Safeeq-Fazil/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/Safeeq-Fazil/leetcode/tree/master/0141-linked-list-cycle) |
 ## Merge Sort
 |  |
