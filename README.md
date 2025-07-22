@@ -222,17 +222,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Safeeq-Fazil/leetcode/tree/master/0100-same-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Safeeq-Fazil/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Safeeq-Fazil/leetcode/tree/master/0100-same-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Safeeq-Fazil/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Safeeq-Fazil/leetcode/tree/master/0100-same-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Safeeq-Fazil/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Safeeq-Fazil/leetcode/tree/master/0100-same-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Safeeq-Fazil/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
