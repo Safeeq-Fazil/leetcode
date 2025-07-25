@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Safeeq-Fazil/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Safeeq-Fazil/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Safeeq-Fazil/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Safeeq-Fazil/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Safeeq-Fazil/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Safeeq-Fazil/leetcode/tree/master/0367-valid-perfect-square) |
 | [0897-prime-palindrome](https://github.com/Safeeq-Fazil/leetcode/tree/master/0897-prime-palindrome) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Safeeq-Fazil/leetcode/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/Safeeq-Fazil/leetcode/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/Safeeq-Fazil/leetcode/tree/master/2058-concatenation-of-array) |
 ## Counting Sort
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Safeeq-Fazil/leetcode/tree/master/0258-add-digits) |
 | [0897-prime-palindrome](https://github.com/Safeeq-Fazil/leetcode/tree/master/0897-prime-palindrome) |
 ## Trie
 |  |
