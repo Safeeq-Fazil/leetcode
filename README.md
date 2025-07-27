@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Safeeq-Fazil/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Safeeq-Fazil/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Safeeq-Fazil/leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Safeeq-Fazil/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Safeeq-Fazil/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Safeeq-Fazil/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Safeeq-Fazil/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/Safeeq-Fazil/leetcode/tree/master/0141-linked-list-cycle) |
 ## Merge Sort
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Safeeq-Fazil/leetcode/tree/master/0100-same-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Safeeq-Fazil/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Safeeq-Fazil/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -244,5 +247,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Safeeq-Fazil/leetcode/tree/master/0100-same-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Safeeq-Fazil/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Safeeq-Fazil/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Safeeq-Fazil/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
