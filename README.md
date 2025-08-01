@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Safeeq-Fazil/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/Safeeq-Fazil/leetcode/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Safeeq-Fazil/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Safeeq-Fazil/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/Safeeq-Fazil/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Safeeq-Fazil/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Safeeq-Fazil/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Safeeq-Fazil/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Safeeq-Fazil/leetcode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/Safeeq-Fazil/leetcode/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/Safeeq-Fazil/leetcode/tree/master/2058-concatenation-of-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Safeeq-Fazil/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Counting Sort
 |  |
 | ------- |
