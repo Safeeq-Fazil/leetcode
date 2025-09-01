@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Safeeq-Fazil/leetcode/tree/master/0118-pascals-triangle) |
 | [0435-non-overlapping-intervals](https://github.com/Safeeq-Fazil/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0875-longest-mountain-in-array](https://github.com/Safeeq-Fazil/leetcode/tree/master/0875-longest-mountain-in-array) |
+| [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/Safeeq-Fazil/leetcode/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 ## Enumeration
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Safeeq-Fazil/leetcode/tree/master/0394-decode-string) |
 | [0782-jewels-and-stones](https://github.com/Safeeq-Fazil/leetcode/tree/master/0782-jewels-and-stones) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Safeeq-Fazil/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/Safeeq-Fazil/leetcode/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 | [3684-substring-matching-pattern](https://github.com/Safeeq-Fazil/leetcode/tree/master/3684-substring-matching-pattern) |
 ## Stack
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Safeeq-Fazil/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/Safeeq-Fazil/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Safeeq-Fazil/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/Safeeq-Fazil/leetcode/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 ## Matrix
 |  |
 | ------- |
